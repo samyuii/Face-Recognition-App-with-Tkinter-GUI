@@ -1,8 +1,4 @@
 ---
-title: Face Recognition App
-description: A desktop application for face recognition using OpenCV and Tkinter.
----
-
 # Face Recognition App
 
 ## Overview
@@ -26,27 +22,27 @@ The Face Recognition App is a desktop application designed to facilitate face re
 ## Installation
 
 1. **Clone the repository**:
-   ~~~sh
+   ```sh
    git clone https://github.com/yourusername/face-recognition-app.git
    cd face-recognition-app
-   ~~~
+   ```
 
 2. **Install the required packages**:
-   ~~~sh
+   ```sh
    pip install -r requirements.txt
-   ~~~
+   ```
 
 3. **Ensure OpenCV is installed**:
-   ~~~sh
+   ```sh
    pip install opencv-python opencv-contrib-python
-   ~~~
+   ```
 
 ## Usage
 
 1. **Run the application**:
-   ~~~sh
+   ```sh
    python app.py
-   ~~~
+   ```
 
 2. **Enter Your Name**:
    - Enter your name in the text box provided.
@@ -136,4 +132,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to customize this README to fit the specific details and requirements of your project.
-~~~
